@@ -8,8 +8,8 @@ Quickstart guide for those already familiar with Ansible:
 
 ### 1. Obtain the playbook
 ```shell
-git clone https://github.com/do-community/ansible-playbooks.git
-cd ansible-playbooks/wordpress-lamp_ubuntu1804
+git clone https://github.com/ossamasgr/ansible-wordpress.git
+cd ansible-wordpress
 ```
 ### 3. Run the Playbook
 
